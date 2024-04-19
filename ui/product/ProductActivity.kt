@@ -11,7 +11,7 @@ import com.grocery.GroceryStore.listener.OnClickItemAndAdd
 import com.grocery.GroceryStore.model.product.ProductEntity
 import com.grocery.GroceryStore.ui.activity.MainActivity
 import com.grocery.GroceryStore.ui.detailproduct.DetailProductActivity
-import com.irzstudio.GroceryStore.utill.Constant
+import com.grocery.GroceryStore.utill.Constant
 import kotlinx.android.synthetic.main.activity_product.*
 import org.koin.android.viewmodel.ext.android.viewModel
 
